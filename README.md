@@ -7,4 +7,4 @@ mysql 5.5
 
 数据库表结构
 
-![Image text](https://raw.github.com/yzs/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://github.com/YzsCmy/MedicationManagementSystem/blob/master/src/images/121330615.jpg)
