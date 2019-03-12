@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class Dbutils {
 	private static String url="jdbc:mysql://localhost:3306/medidb";
 	private static String jdbcName="com.mysql.jdbc.Driver";
-	private static String userName="yzs";
+	private static String userName="root";
 	private static String password="root";
 	static{
 		try {
