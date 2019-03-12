@@ -7,4 +7,4 @@ mysql 5.5
 
 数据库表结构
 
-![Image text](https://github.com/YzsCmy/MedicationManagementSystem/blob/master/src/images/121330615.jpg)
+<img src="https://github.com/YzsCmy/MedicationManagementSystem/blob/master/src/images/121330615.jpg" width="300px"/>
